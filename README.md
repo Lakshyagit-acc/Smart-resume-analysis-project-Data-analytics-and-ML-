@@ -102,7 +102,7 @@ Helpful YouTube videos
 
 🧪 Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Smart-Resume-Analyser-App.git
+git clone 
 
 2️⃣ Open CMD in Project Folder
 
